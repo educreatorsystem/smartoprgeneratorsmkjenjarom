@@ -14,6 +14,6 @@ Pakej ini disediakan untuk GitHub Pages.
 - Sheet ID: `1GB1vXj4yI2LGugBCsFzfDR4t754aEnwyLDTDdXg68eI`
 - Drive Folder ID: `1EJ7i_JWjbi86woEU1yjrS9j4dMPnD1Ov`
 - Apps Script: `https://script.google.com/macros/s/AKfycbz31xjDIvCWmR2EEDi2i7wKHyPpS6JQxXpawdERESs5IoLOPhtt45IODOw6fUMVBeY/exec`
-- Lencana / ikon PWA: `https://iili.io/nqwU1Bp.jpg`
+- Lencana / ikon PWA baharu: `https://iili.io/nqNnZFf.md.png`
 
 Muat naik semua fail dalam folder ini ke root repository GitHub Pages.
